@@ -16,15 +16,15 @@ I'm always eager to learn more and work on exciting new projects!
 ###
 
 <div align="left">
-  <img src="https://logospng.org/wp-content/uploads/css-3.png" height="40" alt="javascript logo"  />
+  <img src="https://logospng.org/wp-content/uploads/css-3.png" height="40" alt="CSS logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height="40" alt="javascript logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height="40" alt="HTML5 logo"  />
   <img width="12" />
-  <img src="ttps://w7.pngwing.com/pngs/891/677/png-transparent-python-logos-and-brands-line-filled-icon.png" height="40" alt="javascript logo"  />
+  <img src="ttps://w7.pngwing.com/pngs/891/677/png-transparent-python-logos-and-brands-line-filled-icon.png" height="40" alt="Python logo"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/a84cdd9c-c1ab-4c8b-98f8-75b278c1c4c5" height="40" alt="javascript logo"  />
+  <img src="https://github.com/user-attachments/assets/a84cdd9c-c1ab-4c8b-98f8-75b278c1c4c5" height="40" alt="Figma logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://e7.pngegg.com/pngimages/640/199/png-clipart-javascript-logo-html-javascript-logo-angle-text-thumbnail.png" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
