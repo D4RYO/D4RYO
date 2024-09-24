@@ -1,5 +1,5 @@
 <div align ="center">
-<img src="https://1drv.ms/i/s!Ah65jb2ZxJSN3FJOg5VEi81u1Bvj?embed=1&width=843&height=196" width="843" height="196" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="40" alt="CSS logo"  />
 </div>
 
 <h1 align="center">hey there 👋</h1>
