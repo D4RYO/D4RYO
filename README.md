@@ -1,5 +1,5 @@
 ![Banner github dario](https://github.com/user-attachments/assets/bf2d6b0c-2655-448d-8f4d-1ac0f153a738)
-<h1 align="center">hey there 👋</h1>
+<h1 align="center"</h1>
 
 ###
 
