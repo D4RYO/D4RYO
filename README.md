@@ -1,5 +1,5 @@
 <div align ="center">
-<img src="https://1drv.ms/i/s!Ah65jb2ZxJSN3FFMZqSIQOJuh2tV?embed=1&width=568&height=439" />"
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 </div>
 
 <h1 align="center">hey there 👋</h1>
