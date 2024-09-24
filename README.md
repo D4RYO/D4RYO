@@ -1,5 +1,5 @@
 <p align=”center”>
-![BANNER] {https://1drv.ms/i/s!Ah65jb2ZxJSN3FJOg5VEi81u1Bvj?embed=1&width=660}
+![BANNER] (https://1drv.ms/i/s!Ah65jb2ZxJSN3FJOg5VEi81u1Bvj?embed=1&width=660)
 </p>
 
 <h1 align="center">hey there 👋</h1>
