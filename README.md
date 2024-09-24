@@ -18,7 +18,7 @@ I'm always eager to learn more and work on exciting new projects!
 <div align="left">
   <img src="https://github.com/user-attachments/assets/39470ddc-0a11-444f-b439-3c133e934059" height="40" alt="CSS logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height="40" alt="HTML5 logo"  />
+  <img src="https://www.citypng.com/public/uploads/preview/download-html5-round-logo-icon-png-701751694771801xidtztxanv.png" height="40" alt="HTML5 logo"  />
   <img width="12" />
   <img src="ttps://w7.pngwing.com/pngs/891/677/png-transparent-python-logos-and-brands-line-filled-icon.png" height="40" alt="Python logo"  />
   <img width="12" />
