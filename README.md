@@ -16,7 +16,7 @@ I'm always eager to learn more and work on exciting new projects!
 ###
 
 <div align="left">
-  <img src="https://github.com/user-attachments/assets/39470ddc-0a11-444f-b439-3c133e934059" height="40" alt="CSS logo"  />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="40" alt="CSS logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="40" alt="HTML5 logo"  />
   <img width="12" />
