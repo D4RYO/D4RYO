@@ -32,7 +32,7 @@ I'm always eager to learn more and work on exciting new projects!
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="Photoshop logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Microsoft_Visual_Basic_for_Applications_logo.svg/800px-Microsoft_Visual_Basic_for_Applications_logo.svg.png" height="40" alt="VBA logo"  />
+  <img src="https://archive.org/download/MSVBA71/VBA_icon.png" height="40" alt="VBA logo"  />
   <img width="12" />
   </div>
 
