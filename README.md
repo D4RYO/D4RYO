@@ -7,8 +7,8 @@ I'm always eager to learn more and work on exciting new projects!
 - 📢 I’m speaking: German / English / Croatian /French
 
 - 🔭 I’m currently working on ...
-  <p>- Building my own portfolio using HTML, CSS, and Python.</p>
-      <p>  - Exploring the intersection of business and AI.  </p>
+  <p>     - Building my own portfolio using HTML, CSS, and Python.</p>
+  <p>     - Exploring the intersection of business and AI.  </p>
       
 - 🌱 I’m currently learning ...
       - HTML, CSS, and Python.
