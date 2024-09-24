@@ -1,6 +1,3 @@
-[![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--z_y4wDUd--/c_imagga_scale,f_auto,fl_progressive,h_210,q_66,w_1000/https://thepracticaldev.s3.amazonaws.com/i/n9b2p3j0h1mdqvms3ogc.gif)](https://github.com/parthy007)
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=d4ryo&label=Profile%20views&color=0e75b6&style=flat" alt="d4ryo" /> </p>
-
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -48,5 +45,5 @@ I'm always eager to learn more and work on exciting new projects!
   <a href="https://www.linkedin.com/in/knezevicdario"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/></a>
 </div>
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=d4ryo&label=Profile%20views&color=0e75b6&style=flat" alt="d4ryo" /> </p>
 ###
