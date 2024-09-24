@@ -8,7 +8,7 @@ I'm always eager to learn more and work on exciting new projects!
 
 - 🔭 I’m currently working on ...
   <p>- Building my own portfolio using HTML, CSS, and Python.</p>
-      - Exploring the intersection of business and AI.
+      <p>  - Exploring the intersection of business and AI.  </p>
       
 - 🌱 I’m currently learning ...
       - HTML, CSS, and Python.
