@@ -1,6 +1,8 @@
-<div align ="center">
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
-</div>
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://1drv.ms/i/s!Ah65jb2ZxJSN3FJOg5VEi81u1Bvj?embed=1&width=843&height=196" alt=”my banner”>
+
+</p>
 
 <h1 align="center">hey there 👋</h1>
 
