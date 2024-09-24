@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I'm a 34-year-old student currently pursuing a degree in **Digital Business & AI**. 
 My journey in the digital world has been diverse, with a strong background in **Figma** and growing experience in **HTML**, **CSS**, and **Python**. 
 I'm always eager to learn more and work on exciting new projects!
@@ -35,5 +34,4 @@ I'm always eager to learn more and work on exciting new projects!
     
 - ⚡ Fun fact: ...
       - The longest recorded chicken flight lasted 13 seconds. 🐔✈️
--->
 
