@@ -1,5 +1,4 @@
-<div align=”center”>
-![Banner github dario](https://github.com/user-attachments/assets/bf2d6b0c-2655-448d-8f4d-1ac0f153a738) </div>
+![Banner github dario](https://github.com/user-attachments/assets/bf2d6b0c-2655-448d-8f4d-1ac0f153a738)
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -50,6 +49,3 @@ I'm always eager to learn more and work on exciting new projects!
 <br><br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=d4ryo&label=Profile%20views&color=0e75b6&style=flat" alt="d4ryo" /> </p>
 
-
-<div align=”center”>
-![Banner github dario](https://github.com/user-attachments/assets/bf2d6b0c-2655-448d-8f4d-1ac0f153a738) </div>
