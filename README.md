@@ -94,11 +94,7 @@ I'm always eager to learn more and work on exciting new projects!
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
 
 ###
 
@@ -111,8 +107,7 @@ I'm a 34-year-old student currently pursuing a degree in **Digital Business & AI
 My journey in the digital world has been diverse, with a strong background in **Figma** and growing experience in **HTML**, **CSS**, and **Python**. 
 I'm always eager to learn more and work on exciting new projects!
 ###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<br><br>- 🔭 I’m working as head of IT <br>- 📚 I'm currently learning how to build my own portfolio using HTML, CSS, and Python (https://d4ryo.github.io/portfolio-page/)<br>- ⚡ In my free time, I like to travel, play sports, and ride my motorcycle.</p>
 
 ###
 
