@@ -32,7 +32,7 @@ I'm always eager to learn more and work on exciting new projects!
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn-gdjgd.nitrocdn.com/puszgbaFBTTMTmzNUiCrRdNAekkabGtJ/assets/images/optimized/rev-791e652/policyviz.com/wp-content/uploads/2016/10/Excel-VBA.jpg" height="40" alt="javascript logo"  />
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/327303767/original/e1a6787325351fd5c098647d60ae6b96a9dfca42/code-excel-vba-algorithms.png" height="40" alt="javascript logo"  />
   <img width="12" />
   </div>
 
