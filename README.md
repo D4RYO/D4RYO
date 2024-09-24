@@ -1,6 +1,5 @@
 <p align=”center”>
-![BANNER] (https://1drv.ms/i/s!Ah65jb2ZxJSN3FJOg5VEi81u1Bvj?embed=1&width=660)
-</p>
+![Banner github dario](https://github.com/user-attachments/assets/2ead63ae-9838-4856-bd6d-c5cc712ae6ba)</p>
 
 <h1 align="center">hey there 👋</h1>
 
