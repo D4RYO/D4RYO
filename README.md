@@ -16,7 +16,7 @@ I'm always eager to learn more and work on exciting new projects!
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://logospng.org/wp-content/uploads/css-3.png" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1024px-HTML5_logo_and_wordmark.svg.png" height="40" alt="javascript logo"  />
   <img width="12" />
