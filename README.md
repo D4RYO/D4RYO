@@ -20,19 +20,19 @@ I'm always eager to learn more and work on exciting new projects!
   <img width="12" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="40" alt="HTML5 logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="40" alt="Python logo"  />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="40" alt="Javascript logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="40" alt="Python logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="40" alt="Visual Studio logo"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" height="40" alt="Python logo"  />
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/a84cdd9c-c1ab-4c8b-98f8-75b278c1c4c5" height="40" alt="Figma logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" height="40" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" height="40" alt="RStudio logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="javascript logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1024px-Adobe_Photoshop_CC_icon.svg.png" height="40" alt="Photoshop logo"  />
   <img width="12" />
-  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/327303767/original/e1a6787325351fd5c098647d60ae6b96a9dfca42/code-excel-vba-algorithms.png" height="40" alt="javascript logo"  />
+  <img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/327303767/original/e1a6787325351fd5c098647d60ae6b96a9dfca42/code-excel-vba-algorithms.png" height="40" alt="VBA logo"  />
   <img width="12" />
   </div>
 
