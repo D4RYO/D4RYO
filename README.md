@@ -1,5 +1,5 @@
-<p align=”center”>
-![Banner github dario](https://github.com/user-attachments/assets/bf2d6b0c-2655-448d-8f4d-1ac0f153a738) </p>
+<div align=”center”>
+![Banner github dario](https://github.com/user-attachments/assets/bf2d6b0c-2655-448d-8f4d-1ac0f153a738) </div>
 <h1 align="center">hey there 👋</h1>
 
 ###
