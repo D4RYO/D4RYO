@@ -1,5 +1,5 @@
 <p align=”center”>
-<img src=https://github.com/D4RYO/D4RYO/blob/main/coollogo_com-204671587%20(1).png" alt="banner"  />
+<img src="https://1drv.ms/i/s!Ah65jb2ZxJSN3FJOg5VEi81u1Bvj?embed=1&width=660" width="660" height="auto" />
 </p>
 
 <h1 align="center">hey there 👋</h1>
