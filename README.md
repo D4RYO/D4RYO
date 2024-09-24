@@ -1,5 +1,5 @@
 <div align ="center">
-<img src="https://1drv.ms/i/s!Ah65jb2ZxJSN3FJOg5VEi81u1Bvj?embed=1&width=843&height=196" width="843" height="196" />"
+<img src="https://1drv.ms/i/s!Ah65jb2ZxJSN3FFMZqSIQOJuh2tV?embed=1&width=568&height=439" />"
 </div>
 
 <h1 align="center">hey there 👋</h1>
