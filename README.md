@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=”https://1drv.ms/i/s!Ah65jb2ZxJSN3FJOg5VEi81u1Bvj?embed=1&width=843&height=196" alt=”my banner”>
+<img src=”https://1drv.ms/i/s!Ah65jb2ZxJSN3FJOg5VEi81u1Bvj?embed=1&width=843&height=196" width=”200" height=”200" alt=”my banner” />
 
 </p>
 
