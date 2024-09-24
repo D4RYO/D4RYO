@@ -24,7 +24,7 @@ I'm always eager to learn more and work on exciting new projects!
   <img width="12" />
   <img src="https://github.com/user-attachments/assets/a84cdd9c-c1ab-4c8b-98f8-75b278c1c4c5" height="40" alt="Figma logo"  />
   <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/640/199/png-clipart-javascript-logo-html-javascript-logo-angle-text-thumbnail.png" height="40" alt="javascript logo"  />
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
